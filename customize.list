@@ -1,2 +1,7 @@
-DOMAIN-SUFFIX,c.e-baixing.com
+# NAME: UDR
+# AUTHOR: SJX
+# DOMAIN: 1
+# DOMAIN-SUFFIX: 1
+# 请在下方添加规则信息
+DOMAIN,c.e-baixing.com
 DOMAIN-SUFFIX,microsoft.com
