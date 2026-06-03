@@ -1,7 +1,8 @@
 # NAME: UDR
 # AUTHOR: SJX
-# DOMAIN: 1
+# DOMAIN: 2
 # DOMAIN-SUFFIX: 1
 # 请在下方添加规则信息
 DOMAIN,c.e-baixing.com
+DOMAIN,ads.microsoft.com
 DOMAIN-SUFFIX,microsoft.com
